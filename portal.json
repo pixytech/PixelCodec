@@ -1,0 +1,9 @@
+{
+  "title": "PixelCodec",
+  "description": "Lossless data to image transformation using computer vision.",
+  "icon": "PC",
+  "color": "#ec4899",
+  "order": 24,
+  "access": "public",
+  "url": "https://pixytech.github.io/PixelCodec/"
+}
